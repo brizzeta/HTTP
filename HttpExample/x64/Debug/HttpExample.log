@@ -1,0 +1,3 @@
+﻿  HttpExample.cpp
+C:\Users\Owner\Downloads\Telegram Desktop\HttpExample\HttpExample\HttpExample.cpp(84,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  HttpExample.vcxproj -> C:\Users\Owner\Downloads\Telegram Desktop\HttpExample\x64\Debug\HttpExample.exe
