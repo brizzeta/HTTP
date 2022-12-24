@@ -1,0 +1,24 @@
+
+
+1--------------------------------------
+id: 804
+name: "Odesa"
+country: "UA"
+lon: 30.7326
+lat: 46.4775
+temp_min: 280.32
+temp_max: 280.32
+sunrise: 1671860348
+sunset: 1671891227
+
+1--------------------------------------
+id: 804
+name: "Odesa"
+country: "UA"
+lon: 30.7326
+lat: 46.4775
+temp_min: 280.32
+temp_max: 280.32
+sunrise: 1671860348
+sunset: 1671891227
+
